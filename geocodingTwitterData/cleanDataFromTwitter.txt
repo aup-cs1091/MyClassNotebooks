@@ -1,0 +1,72 @@
+,screen_name,name,followers_count,location
+0,TuckerCarlson,Tucker Carlson,1064787,"Washington, DC"
+3,WhiteHouse,The White House,15327283,"Washington, DC"
+5,KellyannePolls,Kellyanne Conway,1664393,"Washington, DC"
+6,Reince,Reince Priebus,941927,"Kenosha, WI"
+10,RealRomaDowney,Roma Downey,192126,Malibu
+11,Trump,Trump Organization,254702,"New York, NY"
+14,IngrahamAngle,Laura Ingraham,1664852,"Washington, DC"
+16,TeamTrump,Official Team Trump,742514,USA
+17,DRUDGE_REPORT,DRUDGE REPORT,1319753,USA
+19,LaraLeaTrump,Lara Trump,301998,"New York, NY"
+20,seanhannity,Sean Hannity,2754923,"New York, NY"
+22,CLewandowski_,Corey R. Lewandowski,285315,"Washington, DC"
+23,AnnCoulter,Ann Coulter,1662294,"Los Angeles, CA"
+24,DiamondandSilk,Diamond and Silk®,382889,USA
+25,KatrinaCampins,KATRINA CAMPINS,307559,Peace Within
+26,KatrinaPierson,Katrina Pierson,339906,"Washington, DC"
+27,MichaelCohen212,Michael Cohen,257489,"New York, NY"
+28,foxandfriends,FOX & friends,1012750,"New York, NY"
+29,MELANIATRUMP,MELANIA TRUMP,892678,"New York, NY"
+30,GeraldoRivera,Geraldo Rivera,157925,"New York, NY"
+31,ericbolling,Eric Bolling,729649,"New York, NY"
+32,MarkBurnettTV,Mark Burnett,193488,"Los Angeles, CA"
+33,garyplayer,Gary Player,359255,South Africa
+34,VinceMcMahon,Vince McMahon,1789522,"Greenwich, Conn."
+36,TrumpWaikiki,Trump Waikiki,48325,"Waikiki, Oahu"
+37,TrumpDoral,Trump National Doral,56443,"Miami, Florida"
+38,TrumpCharlotte,Trump Charlotte,38486,"Charlotte, NC"
+39,TrumpLasVegas,Trump Vegas Hotel,99719,Las Vegas 
+40,TrumpChicago,Trump Hotel Chicago,67529,"Chicago, IL"
+41,TrumpGolfDC,"Trump Washington, DC",56428,"Sterling, VA"
+42,TrumpGolfLA,Trump Los Angeles,47512,"Los Angeles, CA"
+44,billoreilly,Bill O'Reilly,2124836,"Manhasset, NY"
+45,greta,Greta Van Susteren,1191205,"Washington, DC"
+46,piersmorgan,Piers Morgan,6035181,"London, UK"
+49,IvankaTrump,Ivanka Trump,4415392,"New York, NY"
+51,VP,Vice President Mike Pence,7033438,"Washington, DC"
+54,parscale,Brad Parscale,212087,"Washington, DC"
+55,PressSec,Sarah Sanders,3699784,"Washington, DC"
+56,TuckerCarlson,Tucker Carlson,2452306,"Washington, DC"
+58,WhiteHouse,The White House,17981553,"Washington, DC"
+60,Scavino45,Dan Scavino Jr.,340876,"1600 Pennsylvania Avenue, Washington, DC"
+61,KellyannePolls,Kellyanne Conway,2584390,USA
+62,Reince,Reince Priebus,934750,"Washington, DC"
+63,RealRomaDowney,Roma Downey,238918,"California, USA"
+64,Trump,The Trump Organization,350208,"New York, NY"
+67,IngrahamAngle,Laura Ingraham,2581320,"Washington, DC"
+69,TeamTrump,Official Team Trump,956501,USA
+72,DRUDGE_REPORT,DRUDGE REPORT,1403331,USA
+74,LaraLeaTrump,Lara Trump,492595,"New York, NY"
+75,seanhannity,Sean Hannity,3928199,"New York, NY"
+76,CLewandowski_,Corey R. Lewandowski,388884,"Washington, DC"
+77,DiamondandSilk,Diamond and Silk®,1010717,USA
+78,KatrinaCampins,KATRINA CAMPINS,273821,Peace Within
+79,KatrinaPierson,Katrina Pierson,443386,"Washington, DC"
+81,foxandfriends,FOX & friends,1335507,"New York, NY"
+82,MELANIATRUMP,MELANIA TRUMP,1064983,"New York, NY"
+83,GeraldoRivera,Geraldo Rivera,265232,"New York, NY"
+84,ericbolling,Eric Bolling🇺🇸,1080806,"New York, NY"
+87,MarkBurnettTV,Mark Burnett,219525,"Los Angeles, CA"
+88,garyplayer,Gary Player,393259,South Africa
+89,VinceMcMahon,Vince McMahon,2197623,"Greenwich, Conn."
+90,DanScavino,Dan Scavino,507539,"Washington, DC"
+91,TrumpDoral,Trump National Doral,87502,"Miami, Florida"
+92,TrumpCharlotte,Trump Charlotte,69155,"Charlotte, NC"
+93,TrumpLasVegas,Trump Vegas Hotel,126917,Las Vegas 
+94,TrumpChicago,Trump Hotel Chicago,94208,"Chicago, IL"
+95,TrumpGolfDC,"Trump Washington, DC",98794,"Sterling, VA"
+96,TrumpGolfLA,Trump Los Angeles,81502,"Los Angeles, CA"
+99,greta,Greta Van Susteren,1201546,"Washington, DC"
+101,piersmorgan,Piers Morgan,6535363,"Los Angeles, CA"
+103,IvankaTrump,Ivanka Trump,6159430,"Washington, DC"
